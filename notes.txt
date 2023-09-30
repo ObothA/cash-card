@@ -1,0 +1,1 @@
+after adding dependencies to buidl.gradle, run ./gradlew test to install
