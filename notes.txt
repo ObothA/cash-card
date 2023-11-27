@@ -1,1 +1,3 @@
 after adding dependencies to buidl.gradle, run ./gradlew test to install
+custom queries with spring data https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/#jdbc.query-methods
+./gradlew test --info
